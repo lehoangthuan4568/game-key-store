@@ -46,6 +46,19 @@
 
 ---
 
+## 📸 Giao Diện Minh Họa
+
+### Trang Chủ
+![Home Page](./game-key-store-be/public/image/home.jpg)
+
+### Cửa Hàng
+![Shop Page](./game-key-store-be/public/image/allproduc.jpg)
+
+### Chi Tiết Game
+![Product Detail](./game-key-store-be/public/image/product.jpg)
+
+---
+
 ## 🛠️ Công Nghệ Sử Dụng
 
 ### Frontend (Client-side)
