@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\config",
+    "\\controllers",
+    "\\data",
+    "\\middlewares",
+    "\\models",
+    "\\routes",
+    "\\temp",
+    "\\utils"
+  ],
+  "SelectedNode": "\\models\\orderModel.js",
+  "PreviewInSolutionExplorer": false
+}

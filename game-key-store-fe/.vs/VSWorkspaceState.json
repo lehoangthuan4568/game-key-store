@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\api",
+    "\\src\\features",
+    "\\src\\pages",
+    "\\src\\routes"
+  ],
+  "SelectedNode": "\\src\\routes\\AdminProtectedRoute.jsx",
+  "PreviewInSolutionExplorer": false
+}

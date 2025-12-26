@@ -1,0 +1,39 @@
+[
+  {
+    "_id": "651f8b3d6d0b6b4f7b8e1a11",
+    "name": "Elden Ring",
+    "slug": "elden-ring-1696566077",
+    "shortDescription": "Hành động RPG trong thế giới mở dark fantasy. Trở thành Elden Lord.",
+    "description": "THE NEW FANTASY ACTION RPG. Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between.",
+    "price": 1200000,
+    "salePrice": 950000,
+    "coverImage": "https://image.api.playstation.com/vulcan/ap/rnd/202108/0410/0JmO1x9l5k2iK4iK64Xp3k0A.jpg",
+    "images": [
+      "https://image.api.playstation.com/vulcan/ap/rnd/202108/0410/0JmO1x9l5k2iK4iK64Xp3k0A.jpg",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202108/0410/T0sCNyT1wG2sC7I0d6pLbeom.jpg"
+    ],
+    "platforms": [ "651f8a7d6d0b6b4f7b8e1a0a", "651f8a7d6d0b6b4f7b8e1a0b" ],
+    "genres": [ "660f8a7d6d0b6b4f7b8e1a1a", "660f8a7d6d0b6b4f7b8e1a1c" ],
+    "isNew": true,
+    "isHot": true,
+    "isFeatured": true
+  },
+  {
+    "_id": "651f8b3d6d0b6b4f7b8e1a12",
+    "name": "Cyberpunk 2077",
+    "slug": "cyberpunk-2077-1696566078",
+    "shortDescription": "Một câu chuyện phiêu lưu hành động trong thế giới mở tại Night City.",
+    "description": "An open-world, action-adventure story set in Night City, a megalopolis obsessed with power, glamour and body modification.",
+    "price": 1100000,
+    "salePrice": null,
+    "coverImage": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0711/kh4MUIu43B45iRmaCqu8S5wQ.jpg",
+    "images": [
+      "https://image.api.playstation.com/vulcan/ap/rnd/202211/0711/kh4MUIu43B45iRmaCqu8S5wQ.jpg"
+    ],
+    "platforms": [ "651f8a7d6d0b6b4f7b8e1a0a" ],
+    "genres": [ "660f8a7d6d0b6b4f7b8e1a1a", "660f8a7d6d0b6b4f7b8e1a1c" ],
+    "isNew": false,
+    "isHot": true,
+    "isFeatured": false
+  }
+]

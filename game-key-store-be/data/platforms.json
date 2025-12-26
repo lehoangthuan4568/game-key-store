@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "651f8a7d6d0b6b4f7b8e1a0a",
+    "name": "Steam",
+    "slug": "steam"
+  },
+  {
+    "_id": "651f8a7d6d0b6b4f7b8e1a0b",
+    "name": "Epic Games",
+    "slug": "epic-games"
+  },
+  {
+    "_id": "651f8a7d6d0b6b4f7b8e1a0c",
+    "name": "Origin",
+    "slug": "origin"
+  },
+  {
+    "_id": "651f8a7d6d0b6b4f7b8e1a0d",
+    "name": "Uplay",
+    "slug": "uplay"
+  },
+  {
+    "_id": "651f8a7d6d0b6b4f7b8e1a0e",
+    "name": "PS5",
+    "slug": "ps5"
+  },
+  {
+    "_id": "651f8a7d6d0b6b4f7b8e1a0f",
+    "name": "Xbox",
+    "slug": "xbox"
+  }
+]

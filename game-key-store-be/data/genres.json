@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "660f8a7d6d0b6b4f7b8e1a1a",
+    "name": "Action",
+    "slug": "action"
+  },
+  {
+    "_id": "660f8a7d6d0b6b4f7b8e1a1b",
+    "name": "Adventure",
+    "slug": "adventure"
+  },
+  {
+    "_id": "660f8a7d6d0b6b4f7b8e1a1c",
+    "name": "RPG",
+    "slug": "rpg"
+  },
+  {
+    "_id": "660f8a7d6d0b6b4f7b8e1a1d",
+    "name": "Strategy",
+    "slug": "strategy"
+  },
+  {
+    "_id": "660f8a7d6d0b6b4f7b8e1a1e",
+    "name": "Simulation",
+    "slug": "simulation"
+  },
+  {
+    "_id": "660f8a7d6d0b6b4f7b8e1a1f",
+    "name": "Indie",
+    "slug": "indie"
+  },
+  {
+    "_id": "660f8a7d6d0b6b4f7b8e1a2a",
+    "name": "Survival",
+    "slug": "survival"
+  },
+  {
+    "_id": "660f8a7d6d0b6b4f7b8e1a2b",
+    "name": "Horror",
+    "slug": "horror"
+  }
+]
