@@ -97,8 +97,8 @@ npm start
 
 ## 📞 Liên hệ
 Nếu bạn có bất kỳ câu hỏi nào, hãy liên hệ với chúng tôi:
-* Email: contact@gamekeystore.com
-* Hotline: 1900 xxxx
+* Email: lehoangthuan4568@gmail.com
+
 
 ---
 *© 2024 Game Key Store. All rights reserved.*
